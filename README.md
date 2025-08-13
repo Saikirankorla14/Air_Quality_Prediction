@@ -25,7 +25,7 @@ How to Run the Project
 1. Clone the repository or download the project files.
 2. Install required libraries using `pip install -r requirements.txt`.
 3. Load the UCI Air Quality dataset.
-4. Run the Jupyter Notebook or Python script to preprocess, analyze, and forecast air quality data.
+4. Run the Jupyter Notebook or Python script to preprocess, analyze, and forecast air quality data recognized.
 
 Actual vs. Predicted CO(GT) Pollution Levels:
 <img width="996" height="547" alt="Actual vs  Predicted CO(GT) Pollution Levels" src="https://github.com/user-attachments/assets/37af1dca-68eb-461f-a3d6-8acd72d61c8c" />
